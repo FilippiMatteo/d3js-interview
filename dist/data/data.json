@@ -1,0 +1,66 @@
+{
+  "chart": [
+    {
+      "title": "revenue",
+      "params": {
+        "value": 200000,
+        "device": [
+          {
+            "type": "tablet",
+            "percentage": 60,
+            "value": 120000,
+            "color": "#85d93b"
+          },
+          {
+            "type": "smartphone",
+            "percentage": 40,
+            "value": 80000,
+            "color": "#3d6618"
+          }
+        ]
+      }
+    },
+    {
+      "title": "impresions",
+      "params": {
+        "value": 50000000,
+        "device": [
+          {
+            "type": "tablet",
+            "percentage": 40,
+            "value": 20000000,
+            "color": "#75cbdc"
+          },
+          {
+            "type": "smartphone",
+            "percentage": 60,
+            "value": 30000000,
+            "color": "#315265"
+          }
+        ]
+      }
+    },
+    {
+      "title": "visits",
+      "params": {
+        "value": 600000000,
+        "device": [
+          {
+            "type": "tablet",
+            "percentage": 80,
+            "value": 480000000,
+            "color": "#eec52b"
+          },
+          {
+            "type": "smartphone",
+            "percentage": 20,
+            "value": 120000000,
+            "color": "#bd531f"
+          }
+        ]
+      }
+    }
+  ]
+}
+
+

@@ -1,0 +1,56 @@
+{
+  "chart": [
+    {
+      "title": "revenue",
+      "params": {
+          "value": 200000,
+          "device" : [
+            {
+              "type": "tablet",
+              "percent": 60,
+              "value": 120000,
+              "color": "#003F00"
+            },
+            {
+              "type": "smartphone",
+              "percent": 40,
+              "value": 80000,
+              "color": "#009d00"
+            }
+          ]
+    }
+  },
+    {
+      "impresions": {
+        "value": 50000000,
+        "tablet": {
+          "percent": 40,
+          "value": 20000000,
+          "color": "#0000FF"
+        },
+        "smartphone": {
+          "percent": 60,
+          "value": 30000000,
+          "color": "#00007F"
+        }
+      }
+    },
+    {
+      "visits": {
+        "value": 600000000,
+        "tablet": {
+          "percent": 80,
+          "value": 480000000,
+          "color": "#B7B700"
+        },
+        "smartphone": {
+          "percent": 20,
+          "value": 120000000,
+          "color": "#FFA500"
+        }
+      }
+    }
+  ]
+}
+
+
