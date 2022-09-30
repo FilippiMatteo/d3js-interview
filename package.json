@@ -30,6 +30,6 @@
     "webpack-dev-server": "^2.11.1"
   },
   "dependencies": {
-    "d3": "^5"
+    "d3": "^7"
   }
 }
